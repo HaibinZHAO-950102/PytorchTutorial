@@ -4,3 +4,5 @@ This document is for the joint work at SDIL (https://www.sdil.de/de) as tutor an
 The Chinese version goes first.  
 The English version may come later.   
 The German version seems hopeless.   
+
+Any comments and suggestions are welcome. （contact: haibin.zhao@kit.edu）
